@@ -59,7 +59,7 @@ const Header = () => {
         </div>
       </nav>
 
-      {/* Mobile Menu */}
+      {/* Mobile Menu  */}
       {isOpen && (
         <div className="md:hidden bg-[#0e1c2f] px-4 pb-4 flex flex-col gap-4 animate-slide-down">
           <Link
