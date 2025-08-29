@@ -16,7 +16,7 @@ const Fortopolio = () => {
       <div className="max-w-xl md:w-2/3">
         <div className="bg-[#162b45] text-sm p-3 rounded-xl mb-4 inline-flex items-center gap-3 shadow-md">
           <img
-            src="/fotofOTOPOLIO.jpg"
+          src="/fotofOTOPOLIO.jpg"
             alt="profile"
             className="w-8 h-8 rounded-full"
           />
